@@ -1,7 +1,6 @@
 import numpy as np  #For handling numeric
 import pandas as pd  #For handling data
-import matplotlib.pyplot as plt #For visualisation
-import seaborn as sb
+
 
 df = pd.read_csv('StudentsPerformance.csv')  #read_csv makes it available
 
